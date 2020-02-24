@@ -1,24 +1,23 @@
 # My Portfolio Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my Portfolio application.
 
-Things you may want to cover:
+### Features
 
-* Ruby version
+With this application, here's what we're gonna be able to do :
 
-* System dependencies
+- Chat
+- Blog
+- Leave comments
+- Post photos
 
-* Configuration
+### Code examples
 
-* Database creation
+Now here are some code examples :
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+``` Ruby
+  def my_first_method
+  	puts "Hey there !"
+  end
+```
+Enjoy !
